@@ -154,13 +154,14 @@ nav{
 
 .blog-card-bottom-image{
     margin-top: 20px;
+    margin-right: -40px;
 }
 
 .blog-author{
     font-size: x-small;
     float: right;
-    margin-top: 16px;
-    margin-right: 8px;
+    margin-top: 50px;
+    margin-right: -30px;
     font-weight: bold;
 }
 
